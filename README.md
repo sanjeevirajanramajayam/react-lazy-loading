@@ -21,7 +21,8 @@ Install react-lazy-loading with npm
 
 ## Screenshots
 
-[image](https://github.com/user-attachments/assets/256ad605-70e5-45db-a575-e5236be34310)
+![App Screenshot](https://github.com/user-attachments/assets/1fcad2c8-9ce2-4f23-be9d-805fb98a3cc5)
+
 
 ## License
 
